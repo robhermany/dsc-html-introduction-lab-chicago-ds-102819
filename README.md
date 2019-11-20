@@ -13,7 +13,6 @@
 </html>
 
 
-
 # HTML Introduction - Lab
 
 ## Introduction
